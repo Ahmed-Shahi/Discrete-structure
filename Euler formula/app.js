@@ -9,12 +9,12 @@
     
 // }
 
-function calculate(){
-    let a = document.getElementById('vertices').value
-    let b = document.getElementById('degree').value
+function abc(){
+    let a = document.getElementById('vertices')
+    let b = document.getElementById('degree')
     
-    // let v = a.value
-    console.log(a)
-    // let d = b.value
-    console.log(b)
+    // let c =  a.value
+    console.log(a.value)
+    // let d =  b.value
+    console.log(b.value)
 }
