@@ -17,7 +17,9 @@
 //     console.log(b.value)
 // }
 
- let abc = a  =>{
+ let abc = () =>{
     let value1 = document.getElementById('vertices')
     console.log(value1.value)
+    let value2 = document.getElementById('degree')
+    console.log(value2.value)
 }
